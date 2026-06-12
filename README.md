@@ -96,8 +96,6 @@ SQL Server en Azure Virtual Machines permite usar versiones completas de SQL Ser
 - Permite mantener requisitos específicos que podrían no ser compatibles con servicios totalmente administrados.
 - Conserva el control completo sobre la configuración del servidor y la base de datos.
 
----
-
 ## Azure SQL Managed Instance
 
 Azure SQL Managed Instance proporciona una instancia de SQL Server altamente compatible con entornos locales, pero con muchas tareas administrativas automatizadas.
@@ -141,8 +139,8 @@ Utiliza diversos servicios de Azure, entre ellos:
 - Reduce significativamente las tareas administrativas.
 - Compatibilidad casi total con SQL Server Enterprise Edition.
 - Soporta autenticación mediante:
-  - SQL Server Authentication.
-  - Microsoft Entra ID.
+- SQL Server Authentication.
+- Microsoft Entra ID.
 
 ## Azure SQL Database
 
@@ -327,6 +325,3 @@ Azure Database for PostgreSQL incluye:
 - Base de datos interna `azure_sys`.
 - Vista `query_store.qs_view` para análisis de rendimiento.
 - Herramientas para optimizar consultas y supervisar la actividad de usuarios.
-
----
-
