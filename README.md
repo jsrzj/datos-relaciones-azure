@@ -240,8 +240,6 @@ PostgreSQL es una base de datos híbrida objeto-relacional que combina caracter�
 - Soporte para procedimientos almacenados.
 - Utiliza el lenguaje de consulta **pgsql**, una extensión de SQL.
 
----
-
 ## Azure Database for MySQL
 
 Azure Database for MySQL es una implementación PaaS basada en la edición Community de MySQL.
@@ -275,8 +273,6 @@ La modalidad **Servidor Flexible** proporciona:
 - Configuración más granular.
 - Optimización de costos.
 - Recomendado para nuevas cargas de trabajo.
-
----
 
 ## Azure Database for PostgreSQL
 
